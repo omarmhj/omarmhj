@@ -5,5 +5,7 @@
     <a href="https://www.instagram.com/omarmhj/"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
   </p>
   
+  <img src="profile-img.png" align="right" width="25%"/>
+  
 I'm a software developer who is passionate with creating applications that helps people in daily life . Some technologies I enjoy working with include Javascript, ReactJS, Redux, nodeJS, expressJS, MongoDB.
 
