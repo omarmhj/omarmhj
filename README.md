@@ -7,6 +7,6 @@
   
   <img src="profile-img.png" align="right" width="25%"/>
   
-I'm a software engineer who is passionate about making open-source more accessible , creating technology to elevate people, and building community  . Some technologies I enjoy working with include Javascript, ReactJS, Redux, nodeJS, expressJS, MongoDB.
+I'm a software engineer who is passionate about making open-source more accessible , creating technology to elevate people, and building community  . Some technologies I enjoy working with include Javascript, Typescript, ReactJS, Redux, nodeJS, expressJS, MongoDB.
 
 
